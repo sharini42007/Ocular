@@ -1,0 +1,6 @@
+{
+  "name": "Mall Traffic & Layout Optimizer",
+  "description": "An interactive, computer-vision supported digital twin dashboard that utilizes AI Agents and Gemini models to analyze store layouts, visualize real-time heatmaps, and automate hyper-local tenant campaigns to redirect mall foot traffic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
